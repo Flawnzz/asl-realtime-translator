@@ -1,8 +1,0 @@
-streamlit
-streamlit-webrtc
-scikit-learn
-scikit-image
-joblib
-av
-numpy
-opencv-python-headless
