@@ -22,7 +22,7 @@ DEFAULT_CONFIDENCE = 0.50   # frames below this confidence are ignored
 
 # --- PAGE SETUP ---
 st.set_page_config(page_title="ASL Real-Time Translator", layout="centered")
-st.title("Sign Language Translator 🤟")
+st.title("Sign Language Translator")
 st.write(
     "Wait for **READY!**, place your hand in the blue box, and hold each letter "
     "steady until it locks in. Sign SPACE/DEL to edit; lower your hand (NOTHING) "
