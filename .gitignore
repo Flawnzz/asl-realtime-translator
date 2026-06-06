@@ -1,0 +1,5 @@
+# Extracted features (large, regenerable from the dataset)
+final_hog_features.joblib
+
+# Dataset (large, downloaded separately)
+Dataset/
